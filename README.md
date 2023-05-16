@@ -48,3 +48,6 @@ This program uses the following C++ libraries:
 This program was developed as a project for the C++ course. Currently, no contributions are accepted.
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue in the repository.
+
+## Credits
+- Shivansh Yadav (https://github.com/iamshivanshyadav)
